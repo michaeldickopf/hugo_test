@@ -1,0 +1,4 @@
+baseURL = 'http://michaeldickopf.de/'
+languageCode = 'en-us'
+title = 'IT Beratung'
+theme = 'ananke'

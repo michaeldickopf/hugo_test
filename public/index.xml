@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT Beratung</title>
+    <link>http://michaeldickopf.de/</link>
+    <description>Recent content on IT Beratung</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Aug 2025 11:21:30 +0200</lastBuildDate>
+    <atom:link href="http://michaeldickopf.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://michaeldickopf.de/posts/my-first-post/</link>
+      <pubDate>Sun, 03 Aug 2025 11:21:30 +0200</pubDate>
+      <guid>http://michaeldickopf.de/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;cyber-sec-consulting-angebot&#34;&gt;Cyber Sec Consulting Angebot&lt;/h1&gt;&#xA;&lt;p&gt;Gesetzliche Regelungen und Bedrohungen im Internet stehen häufig limitierenden Faktoren wie Budget oder Personalmangel gegenüber.&lt;/p&gt;&#xA;&lt;p&gt;Sie sind angestellt oder in Leitung einer gemeinnützigen Organisation, Kirche, Schule, Verein oder ähnlichem ? Dann ist dieses Angebot speziell für Sie !&lt;/p&gt;&#xA;&lt;p&gt;Wir, Masterabsolventen der Informatik und Cyber-Sicherheit, möchten ein Testprogramm für Pro-Bono Beratung starten, in dem Sie kostenlose Beratung erhalten, und Wir Erfahrung sammeln.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Was bekommen Sie:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;eine kostenlose Analyse ihres IT-Sicherheits-Konzepts&lt;/li&gt;&#xA;&lt;li&gt;eine unverbindliche Einschätzung Ihres Risikopotentials&lt;/li&gt;&#xA;&lt;li&gt;Hilfestellung bei der Verwendung und Integration von KI&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;Wann ist eine Beratung sinnvoll:&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
