@@ -2,3 +2,7 @@ baseURL = 'http://michaeldickopf.de/'
 languageCode = 'en-us'
 title = 'IT Beratung'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
